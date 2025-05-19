@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Allan Silva",
+      "email": "allan.silva@example.com",
+      "password": "123456",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "name": "Maria Oliveira",
+      "email": "maria.oliveira@example.com",
+      "password": "987654",
+      "role": "user"
+    },
+    {
+      "id": 3,
+      "name": "João Santos",
+      "email": "joao.santos@example.com",
+      "password": "56546564654",
+      "role": "user"
+    }
+  ]
+}
